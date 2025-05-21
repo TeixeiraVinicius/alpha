@@ -36,12 +36,12 @@
 :root {
 	
 	/* #ba024a in decimal RGB */
-	--main-color: rgb(186,2,74);
-	--main-color-rgb:186,2,74;
+	--main-color: rgb(11, 128, 238);
+	--main-color-rgb:11,128,238;
 	
 	/* #540045 in decimal RGB */
-	--color-two: rgb(84,0,69);
-	--color-two-rgb:84,0,69;
+	--color-two: rgb(36, 79, 145);
+	--color-two-rgb:39,0,146;
 	
 	/* #120c12 in decimal RGB */
 	--color-three: rgb(18,12,18);
